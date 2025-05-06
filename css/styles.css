@@ -1,0 +1,7 @@
+#mobile-menu {
+    position: relative;
+    z-index: 299;
+}
+section, footer, nav {
+	padding: 0px 20px;
+}
